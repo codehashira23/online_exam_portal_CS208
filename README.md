@@ -25,7 +25,7 @@ This section outlines the business aspects and stakeholders of the online exam p
 5. 📊 **Results & Analytics** - Generates reports for students and administrators.
 
 **📜 Business Process Viewpoint Diagram:**
-![Business Process Viewpoint](image.png)
+![Business Process Viewpoint](bussiness_process_viewpoint.png)
 
 ## 💻 Application Viewpoint
 This section describes the application components involved in the system.
